@@ -1,6 +1,6 @@
 ![wave](https://github.com/simonsejse/latex-template/assets/20711558/b5add218-a4f8-4097-9e80-88a771946e75)
 
-# 🌟 Competitive Programming Repository
+# 🌟 Kattis Competitive Programming Repo
 
 <!-- START_TABLE_OF_CONTENTS -->
 ## Table of Contents
