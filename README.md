@@ -1,4 +1,4 @@
-![wave](https://github.com/simonsejse/latex-template/assets/20711558/b5add218-a4f8-4097-9e80-88a771946e75)
+![wave](https://github.com/simonwinther/latex-template/assets/20711558/b5add218-a4f8-4097-9e80-88a771946e75)
 
 # 🌟 Kattis Competitive Programming Repo
 
